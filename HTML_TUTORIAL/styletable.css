@@ -1,0 +1,35 @@
+table{
+  /*font-family: 'Courier New', Courier, monospace;
+  border-collapse: collapse;
+*/}
+
+.table1{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.table2{
+border-collapse: collapse;
+}
+
+.table3{
+  font-family: 'Courier New', Courier, monospace;border-collapse: collapse;
+}
+
+th{
+  border: 1px solid #000000;
+  text-align: center;
+}
+td{
+  border: 1px solid #000000;
+}
+
+ul{
+  /*list-style-type: disc;*/
+  /*list-style-type: circle;*/
+  list-style-type: square;
+  
+}
+
+ol{
+  
+}
